@@ -1,0 +1,1707 @@
+
+[LOG] Artifact Collection - 2025-04-03 23:00:59
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1).csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_5.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_5_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_5.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_3_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_3_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_3_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_3_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_3_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4_2_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_5_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_5.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_5_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_2.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1_2.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1_1_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1_1_1_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1_2_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_2_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_5.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_3_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4_2_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_5_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_5.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_3_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_3_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_3_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_3_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_3_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4_2_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_5_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_6.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_1_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_1_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_1_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_2_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_3_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_4_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_5_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.exe_5_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_6.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_4.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_4.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_1_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_1_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_2_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_3_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_1_3_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_2_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_3_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_1_3_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_4.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_4.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_1_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_1_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_2_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_3_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_1_3_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_2_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_3_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_2_3_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_4.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_1_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_1_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_2_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_3_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_3_3_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4_3.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4_1_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4_1_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4_2_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_4_2_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_5_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.jpg_5_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_6.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_1_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_1_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_1_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_2_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_3_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_4_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_5_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\example.txt_5_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_3.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1_3.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1_1_2.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1_1_1_2.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1_1_1_1_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1_2_2.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_1_2_1_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_2_2.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\forensic_report_2_1_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_6.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_1_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_1_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_1_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_2_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_4.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_1_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_2_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_3_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_3_3_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4_3.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4_1_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4_1_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4_2_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_4_2_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_5_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\security.log_5_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_6.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_4.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_4.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_1_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_1_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_2_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_3_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_1_3_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_2_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_3_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_1_3_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_4.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_4.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_1_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_1_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_2_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_3_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_1_3_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_2_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_3_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_2_3_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_4.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_1_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_1_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_2_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_3_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_3_3_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4_3.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4_1_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4_1_1_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4_2_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_4_2_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_5_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_230058\test_log (1)_5_1_1.csv
+
+[LOG] Artifact Collection - 2025-04-03 23:43:46
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\example.exe.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\example.jpg.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\example.txt.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\forensic_report.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\security.log.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\test_log (1).csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\example.exe_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\example.jpg_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\example.txt_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\forensic_report_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\security.log_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250403_234346\test_log (1)_1.csv
+
+[LOG] Artifact Collection - 2025-04-03 23:45:00
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\file_analyzer.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\metadata_extractor.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\models.py.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\routes.py.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\__init__.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\file_analyzer_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\metadata_extractor_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\models.py_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\routes.py_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\__init___1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\file_analyzer.cpython-313.pyc
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\metadata_extractor.cpython-313.pyc
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_234500\__init__.cpython-313.pyc
+
+[LOG] Artifact Collection - 2025-04-03 23:53:40
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\file_analyzer.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\metadata_extractor.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\models.py.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\routes.py.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\__init__.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\file_analyzer.cpython-313.pyc
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\file_analyzer_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\file_analyzer_1_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\metadata_extractor.cpython-313.pyc
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\metadata_extractor_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\metadata_extractor_1_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\models.py_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\models.py_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\routes.py_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\routes.py_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\__init__.cpython-313.pyc
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\__init___1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\__init___1_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\file_analyzer.cpython-313_1.pyc
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\file_analyzer_2.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\file_analyzer_1_2.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\file_analyzer_1_1_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\metadata_extractor.cpython-313_1.pyc
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\metadata_extractor_2.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\metadata_extractor_1_2.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\metadata_extractor_1_1_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\models.py_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\models.py_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\models.py_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\routes.py_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\routes.py_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\routes.py_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\__init__.cpython-313_1.pyc
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\__init___2.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\__init___1_2.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\__init___1_1_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\file_analyzer.cpython-313_2.pyc
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\metadata_extractor.cpython-313_2.pyc
+[INFO] Collected: C:/Users/sohai/Desktop/digital-evidence-analyzer_22/app\artifacts_20250403_235340\__init__.cpython-313_2.pyc
+
+[LOG] Artifact Collection - 2025-04-04 16:51:31
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.exe.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.jpg.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.txt.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\forensic_report.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\security.log.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\test_log (1).csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.exe_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.exe_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.jpg_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.jpg_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.txt_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.txt_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\forensic_report_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\forensic_report_1_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\security.log_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\security.log_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\test_log (1)_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\test_log (1)_1_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.exe_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.exe_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.exe_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.jpg_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.jpg_1_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.jpg_1_1_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.txt_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.txt_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\example.txt_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\forensic_report_2.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\forensic_report_1_2.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\forensic_report_1_1_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\security.log_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\security.log_1_2.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\security.log_1_1_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\test_log (1)_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\test_log (1)_1_2.csv
+[INFO] Collected: C:/Users/sohai/Desktop/test_files\artifacts_20250404_165131\test_log (1)_1_1_1.csv
+
+[LOG] Artifact Collection - 2025-04-04 16:55:10
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\10.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\123.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\1345.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022309_A3.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022512_TASK-3-L.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551 assignment 2.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_CY312.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_cys.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_DEVOPS3.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_DEVOPS3.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_NISA_Lab-07 2[1].docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_os.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_task3.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022552_cys.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022552_cys_ai.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\3.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\4.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\5.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\6.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\7.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\8.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\9.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ABC
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Access control mechanisms on cisco packet tracer.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Assignments 2.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\BitLocker Recovery Key D61660BA-AACB-4DA3-90F4-6974B013244E.TXT
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\comparison.py
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Dockerfile
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Dockerfile..pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Dockerfile..txt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Dockerfile.odt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Dockerfile.pdf.txt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\download.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\example
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\fcfs.py
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Figure_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Figure_2.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\gender_submission.csv
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Implementing and Analyzing Access Control Mechanis.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ipconfig.txt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\lab 1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\metadata_analysis.py
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\New Microsoft Word Document.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\os_2022551.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\os_2022551.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\processes.txt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\reiaan1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\rr.py
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\sjf.py
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\sohaib khan CV.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Sohaib khan networking #1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Sohaib networking #1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ssd_lab.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ssd_lab.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Task 1.c
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\test.csv
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\train.csv
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\WhatsApp Image 2024-10-14 at 20.13.29_2f99a556.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\WhatsApp Video 2024-10-14 at 21.02.03_1ae54fb6.mp4
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_task2.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\802.1X AUTHENTICATION.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ACL EXTENDED.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ACL STANDARD.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\cy331_assignment3_2022551.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\cy331_assignment_2022551.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\cy331_assignment_2022551.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\PROJECT REPORT.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\REDIUS AUTHENTICATION AAA.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\sohaib1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\sohaib5.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\SWITCH PORT SECURITY.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\VLAN 1.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\VLAN 2.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\1_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\10_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\123_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\1345_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022309_A3_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022512_TASK-3-L_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551 assignment 2_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_CY312_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_cys_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_DEVOPS3_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_DEVOPS3_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_NISA_Lab-07 2[1]_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_os_1.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_task2_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551_task3_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022552_cys_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022552_cys_ai_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\3_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\4_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\5_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\6_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\7_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\8_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\802.1X AUTHENTICATION_1.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\9_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ABC_1
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Access control mechanisms on cisco packet tracer_1.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ACL EXTENDED_1.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ACL STANDARD_1.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Assignments 2_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\BitLocker Recovery Key D61660BA-AACB-4DA3-90F4-6974B013244E_1.TXT
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\comparison_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\cy331_assignment3_2022551_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\cy331_assignment_2022551_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\cy331_assignment_2022551_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Dockerfile_1
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Dockerfile._1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Dockerfile._1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Dockerfile_1.odt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Dockerfile.pdf_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\download_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\example_1
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\fcfs_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Figure_1_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Figure_2_1.png
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\gender_submission_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Implementing and Analyzing Access Control Mechanis_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ipconfig_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\lab 1_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\metadata_analysis_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\New Microsoft Word Document_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\os_2022551_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\os_2022551_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\processes_1.txt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\PROJECT REPORT_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\REDIUS AUTHENTICATION AAA_1.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\reiaan1_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\rr_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\sjf_1.py
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\sohaib khan CV_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Sohaib khan networking #1_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Sohaib networking #1_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\sohaib1_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\sohaib5_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ssd_lab_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\ssd_lab_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\SWITCH PORT SECURITY_1.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Task 1_1.c
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\test_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\train_1.csv
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\VLAN 1_1.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\VLAN 2_1.pkt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\WhatsApp Image 2024-10-14 at 20.13.29_2f99a556_1.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\WhatsApp Video 2024-10-14 at 21.02.03_1ae54fb6_1.mp4
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022502.Dsa.assignment.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022506_assignment-05 - Copy.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022506_assignment-05.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\2022551.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Agreement 1 new.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\agreement 1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\agreement 2.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\agreement 3 .pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Assignment 4 cy211.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Assignment4(2022551).docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\atif 2.cpp
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\atif 2.exe
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\atif khan.cpp
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\atif khan.exe
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Chap 8.pptx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\chapter 12 5183996.ppt
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\coal project.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Constitution of Madina.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\CS203 Final Course.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\CV IR '23-1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Cyber Security Policies and Standard.pptx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\CYS + ES TIMETABLE SEM 2.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Deed of Sale Nadeem Riaz.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Deed of Sale Nadeem Riaz.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\DIGITAL_Fundamemtal.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\DSA PROJECT REPORT.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\DSA_Project.cpp
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\essay.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Final CY201 Content.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\isl project.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Islamyat.rar
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Lab 10.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Lab 5.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Lecture 14 & 15.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Lecture 16.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Lecture 17.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Lecture 18.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Lecture 19 & 20.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Lecture 21.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Lecture 22.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Lecture 23 & 25.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Lecture 25.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\MT102 ASSIGNMENT 5.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Muhammad Nadeem Riaz.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\New DOCX Document (2).docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\New DOCX Document (3).docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\New DOCX Document (4).docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\New DOCX Document.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Pak Studies.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Pak study.rar
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\pakistan studies.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\pakistan studies.docx2.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\sudais agreement 1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\sudais new agreement 1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Week 10.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Week 12.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Week 9.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\WhatsApp Image 2024-05-29 at 02.07.31_7f1e8164.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\top_rated_9000_movies_on_TMDB.csv
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Untitled.ipynb
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\Untitled-checkpoint.ipynb
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\download_2.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/jani\artifacts_20250404_165510\metadata_analysis_2.py
+
+[LOG] Artifact Collection - 2025-04-04 17:09:46
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1).csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1_2_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_2_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1_2_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_2_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1_2_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_2_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.exe_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_3.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1_3.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1_1_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1_1_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1_2_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_1_2_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_2_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.jpg_2_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\example.txt_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_3.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1_3.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1_1_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1_1_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1_2_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_1_2_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_2_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\forensic_report_2_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\security.log_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_3.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1_3.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1_1_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1_1_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1_2_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_1_2_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_2_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_170946\test_log (1)_2_1_1.csv
+
+[LOG] Artifact Collection - 2025-04-04 18:30:52
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1).csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_3_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_3_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_3.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_3.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1_2_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_2_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2_2_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_3_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2_2_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_3_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_3_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_3_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_3.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_3.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1_2_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_2_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2_2_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_3_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2_2_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_3_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_3_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2_2_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_3_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_3.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_3.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1_2_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_2_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2_2_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_3_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2_2_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_3_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_4.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_4.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_2_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_3_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_1_3_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_2_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_3_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.exe_3_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_4.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_4.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_3.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1_3.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1_1_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1_1_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1_2_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_1_2_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_2_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_1_2_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2_3.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2_1_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2_1_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2_2_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_2_2_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_3_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_1_3_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2_3.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2_1_1_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2_1_1_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2_2_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_2_2_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_3_2.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.jpg_3_1_1.jpg
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_4.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_4.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_2_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_3_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_1_3_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_2_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_3_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\example.txt_3_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_4.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_4.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_3.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1_3.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1_1_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1_1_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1_2_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_1_2_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_2_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_1_2_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2_3.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2_1_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2_1_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2_2_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_2_2_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_3_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_1_3_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2_3.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2_1_1_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2_1_1_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2_2_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_2_2_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_3_2.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\forensic_report_3_1_1.pdf
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_4.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_4.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_1_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_2_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_3_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_1_3_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2_3.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2_1_1_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2_1_1_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2_2_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_2_2_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_3_2.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\security.log_3_1_1.txt
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_4.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_4.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_3.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1_3.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1_1_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1_1_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1_2_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_1_2_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_2_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_1_2_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2_3.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2_1_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2_1_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2_2_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_2_2_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_3_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_1_3_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2_3.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2_1_1_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2_1_1_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2_2_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_2_2_1_1.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_3_2.csv
+[INFO] Collected: C:\Users\sohai\Desktop\test_files\artifacts_20250404_183051\test_log (1)_3_1_1.csv
+
+[LOG] Artifact Collection - 2025-04-04 18:52:04
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\2022502.Dsa.assignment.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\2022506_assignment-05 - Copy.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\2022506_assignment-05.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\2022551.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Agreement 1 new.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\agreement 1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\agreement 2.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\agreement 3 .pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Assignment 4 cy211.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Assignment4(2022551).docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\atif 2.cpp
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\atif 2.exe
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\atif khan.cpp
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\atif khan.exe
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Chap 8.pptx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\chapter 12 5183996.ppt
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\coal project.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Constitution of Madina.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\CS203 Final Course.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\CV IR '23-1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Cyber Security Policies and Standard.pptx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\CYS + ES TIMETABLE SEM 2.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Deed of Sale Nadeem Riaz.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Deed of Sale Nadeem Riaz.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\DIGITAL_Fundamemtal.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\DSA PROJECT REPORT.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\DSA_Project.cpp
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\essay.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Final CY201 Content.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\isl project.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Islamyat.rar
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lab 10.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lab 5.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 14 & 15.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 16.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 17.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 18.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 19 & 20.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 21.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 22.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 23 & 25.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 25.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\MT102 ASSIGNMENT 5.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Muhammad Nadeem Riaz.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\New DOCX Document (2).docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\New DOCX Document (3).docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\New DOCX Document (4).docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\New DOCX Document.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Pak Studies.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Pak study.rar
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\pakistan studies.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\pakistan studies.docx2.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\sudais agreement 1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\sudais new agreement 1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Week 10.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Week 12.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Week 9.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\WhatsApp Image 2024-05-29 at 02.07.31_7f1e8164.jpg
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\2022502.Dsa.assignment_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\2022506_assignment-05 - Copy_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\2022506_assignment-05_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\2022551_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Agreement 1 new_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\agreement 1_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\agreement 2_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\agreement 3 _1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Assignment 4 cy211_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Assignment4(2022551)_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\atif 2_1.cpp
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\atif 2_1.exe
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\atif khan_1.cpp
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\atif khan_1.exe
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Chap 8_1.pptx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\chapter 12 5183996_1.ppt
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\coal project_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Constitution of Madina_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\CS203 Final Course_1.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\CV IR '23-1_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Cyber Security Policies and Standard_1.pptx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\CYS + ES TIMETABLE SEM 2_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Deed of Sale Nadeem Riaz_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Deed of Sale Nadeem Riaz_1.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\DIGITAL_Fundamemtal_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\DSA PROJECT REPORT_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\DSA_Project_1.cpp
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\essay_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Final CY201 Content_1.zip
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\isl project_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Islamyat_1.rar
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lab 10_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lab 5_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 14 & 15_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 16_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 17_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 18_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 19 & 20_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 21_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 22_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 23 & 25_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Lecture 25_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\MT102 ASSIGNMENT 5_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Muhammad Nadeem Riaz_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\New DOCX Document (2)_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\New DOCX Document (3)_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\New DOCX Document (4)_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\New DOCX Document_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Pak Studies_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Pak study_1.rar
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\pakistan studies_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\pakistan studies.docx2_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\sudais agreement 1_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\sudais new agreement 1_1.docx
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Week 10_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Week 12_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\Week 9_1.pdf
+[INFO] Collected: C:/Users/sohai/Desktop/jani/assignment\artifacts_20250404_185203\WhatsApp Image 2024-05-29 at 02.07.31_7f1e8164_1.jpg

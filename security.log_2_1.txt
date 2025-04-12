@@ -1,0 +1,3 @@
+[INFO] User1 logged in.
+[ERROR] Failed login attempt by User2.
+[ALERT] Suspicious activity detected on IP 192.168.1.1.

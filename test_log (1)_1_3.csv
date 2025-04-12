@@ -1,0 +1,9 @@
+timestamp,status,message
+2025-04-02 08:00:00,failed,Invalid password
+2025-04-02 08:30:00,successful,Login successful
+2025-04-02 09:00:00,failed,Invalid password
+2025-04-02 09:15:00,failed,Account locked
+2025-04-02 10:00:00,successful,Login successful
+2025-04-02 10:30:00,failed,Invalid password
+2025-04-02 11:00:00,failed,Incorrect credentials
+2025-04-02 12:00:00,successful,Login successful

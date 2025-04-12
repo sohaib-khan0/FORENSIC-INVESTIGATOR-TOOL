@@ -1,0 +1,14 @@
+File Integrity Checker Report
+============================================================
+Scan Time: 2025-04-04 20:06:21
+Scanned Directory: C:\Users\sohai\Desktop\test_files
+============================================================
+
+
+[INFO] Total files scanned: 1458
+
+[OK] No file changes detected.
+
+[INFO] 2025-04-04 20:06:21 - Starting scan in directory: C:\Users\sohai\Desktop\test_files
+[INFO] 2025-04-04 20:06:24 - File hashes saved successfully.
+[INFO] 2025-04-04 20:06:24 - No file modifications found.
